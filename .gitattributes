@@ -11,7 +11,7 @@ public class PrintlnTest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       String frase = ("Hello Charles");
+       String frase = ("Hello Boys");
        String dividido[] = frase.split(" ");
        String firstName[] = frase.split(dividido[0]);
        
